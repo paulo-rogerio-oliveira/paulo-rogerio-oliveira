@@ -2,7 +2,7 @@
 <h4 align="center">Senior Software Engineer &nbsp;·&nbsp; .NET / C# &nbsp;·&nbsp; Distributed Systems &nbsp;·&nbsp; Applied AI</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/paulo-rog%C3%A9rio-oliveira-da-silva-961667105/">
+  <a href="https://www.linkedin.com/in/paulo-rogério-oliveira-da-silva-109409355/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/paulo-rogerio-oliveira">
