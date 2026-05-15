@@ -98,15 +98,6 @@ Engenheiro de software com atuação focada em **C# / .NET**, no desenho e const
 
 ---
 
-## Atividade no GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paulo-rogerio-oliveira&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-rogerio-oliveira&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" />
-</p>
-
----
-
 ## Contato
 
 - **LinkedIn:** [linkedin.com/in/paulo-rogério-oliveira-da-silva](https://www.linkedin.com/in/paulo-rog%C3%A9rio-oliveira-da-silva-961667105/)
